@@ -1,2 +1,2 @@
-# MLP-only-numpy
-A MLP designed from scratch using only numpy w/ @AresPaleson (the repository on their page is bugged)
+# NN-from-scratch
+A Multi-Layer Perceptron Implementation applying Mushroom data.
